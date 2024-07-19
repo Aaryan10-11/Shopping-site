@@ -1,2 +1,2 @@
 # Shopping-site
-Author: Aaryan Nagrale
+Author: Aaryan Nagrale(IT)
